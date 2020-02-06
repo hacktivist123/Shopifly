@@ -8,6 +8,9 @@ const Header = () => (
         <Icon className= 'logo'/>
     </Link>
     <div className='options'>
+    <Link to= '/' className='option'>
+         HOME 
+      </Link>
       <Link to= '/shop' className='option'>
           SHOP
       </Link>
